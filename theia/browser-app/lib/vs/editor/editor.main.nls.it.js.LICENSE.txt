@@ -1,0 +1,6 @@
+/*!-----------------------------------------------------------
+ * Copyright (c) Microsoft Corporation. All rights reserved.
+ * Version: 0.23.0(c1b3b90cfb5d4e3805f8aea3c005800590733397)
+ * Released under the MIT license
+ * https://github.com/microsoft/vscode/blob/main/LICENSE.txt
+ *-----------------------------------------------------------*/

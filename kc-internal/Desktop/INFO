@@ -1,0 +1,30 @@
+This is a very similar XFCE Remote Desktop environment like provided in
+the real exam. You can only copy from the questions on the left, you're
+not able to copy other content from your local OS.
+
+# K8s Docs
+You'll need to use the Firefox browser inside the Remote Desktop to
+open the K8s docs.
+
+# Copy&Paste
+Copy&Paste in Terminal: Ctrl+Shift+c Ctrl+Shift+v
+Copy&Paste elsewhere: Ctrl+c Ctrl+v
+Copy&Paste is also possible using mouse-right context menu
+
+# Lagging
+You'll probably experience lagging, like when moving windows or scrolling
+in Firefox. Better get used to it now than during your real exam.
+
+# Notepad
+Use Application->Accessories->Mousepad to write down notes for yourself during
+the exam.
+
+# Visual Editor and Filesystems
+In the real exam you will not be able to edit files using Mousepad and then
+use these in the Terminal. This is because the Terminal will access a
+different host than the Remote Desktop in the real exams. You could edit
+text in Mousepad and then copy&paste it into vim inside the Terminal.
+
+# Terminal Copy&Paste shows "Warning: Unsafe Paste"
+Disable this at "Terminal Preferences->General->Show unsafe paste dialog".
+
